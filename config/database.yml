@@ -15,7 +15,8 @@ default: &default
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   username: bukaide_web
   password: "%&^*(dsanj71^"
-  host: 119.110.75.105:3305
+  host: 119.110.75.105
+  port: 3305
 
 development:
   <<: *default
