@@ -1,7 +1,31 @@
 {
-  "name": "BukaIde",
+  "name": "bukaide",
   "private": true,
   "dependencies": {
     "chart.js": "^2.7.2"
-  }
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacker78yu/BukaIde.git"
+  },
+  "keywords": [
+    "BukaIde"
+  ],
+  "author": "Muhammad Irfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacker78yu/BukaIde/issues"
+  },
+  "homepage": "https://github.com/hacker78yu/BukaIde#readme"
 }
