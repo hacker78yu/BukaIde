@@ -16,5 +16,5 @@
 //= require jquery3
 //= require popper
 //= require bootstrap
-//= require chart-min
+//= require bootstrap-datepicker
 //= require_tree .
